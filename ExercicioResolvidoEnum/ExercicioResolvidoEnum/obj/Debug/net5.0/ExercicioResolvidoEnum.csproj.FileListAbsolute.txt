@@ -1,0 +1,16 @@
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net5.0\ExercicioResolvidoEnum.csproj.AssemblyReference.cache
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net5.0\ExercicioResolvidoEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net5.0\ExercicioResolvidoEnum.AssemblyInfoInputs.cache
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net5.0\ExercicioResolvidoEnum.AssemblyInfo.cs
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net5.0\ExercicioResolvidoEnum.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\bin\Debug\net5.0\ExercicioResolvidoEnum.exe
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\bin\Debug\net5.0\ExercicioResolvidoEnum.deps.json
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\bin\Debug\net5.0\ExercicioResolvidoEnum.runtimeconfig.json
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\bin\Debug\net5.0\ExercicioResolvidoEnum.runtimeconfig.dev.json
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\bin\Debug\net5.0\ExercicioResolvidoEnum.dll
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\bin\Debug\net5.0\ref\ExercicioResolvidoEnum.dll
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\bin\Debug\net5.0\ExercicioResolvidoEnum.pdb
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net5.0\ExercicioResolvidoEnum.dll
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net5.0\ref\ExercicioResolvidoEnum.dll
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net5.0\ExercicioResolvidoEnum.pdb
+C:\Users\Carlos Oliveira\source\repos\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net5.0\ExercicioResolvidoEnum.genruntimeconfig.cache
