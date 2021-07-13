@@ -1,0 +1,16 @@
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\bin\Debug\net5.0\TagProgram.exe
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\bin\Debug\net5.0\TagProgram.deps.json
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\bin\Debug\net5.0\TagProgram.runtimeconfig.json
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\bin\Debug\net5.0\TagProgram.runtimeconfig.dev.json
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\bin\Debug\net5.0\TagProgram.dll
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\bin\Debug\net5.0\ref\TagProgram.dll
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\bin\Debug\net5.0\TagProgram.pdb
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\obj\Debug\net5.0\TagProgram.csproj.AssemblyReference.cache
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\obj\Debug\net5.0\TagProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\obj\Debug\net5.0\TagProgram.AssemblyInfoInputs.cache
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\obj\Debug\net5.0\TagProgram.AssemblyInfo.cs
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\obj\Debug\net5.0\TagProgram.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\obj\Debug\net5.0\TagProgram.dll
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\obj\Debug\net5.0\ref\TagProgram.dll
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\obj\Debug\net5.0\TagProgram.pdb
+C:\Users\Carlos Oliveira\source\repos\TagProgram\TagProgram\obj\Debug\net5.0\TagProgram.genruntimeconfig.cache
