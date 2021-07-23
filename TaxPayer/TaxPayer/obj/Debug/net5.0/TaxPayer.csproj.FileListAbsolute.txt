@@ -1,0 +1,16 @@
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\bin\Debug\net5.0\TaxPayer.exe
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\bin\Debug\net5.0\TaxPayer.deps.json
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\bin\Debug\net5.0\TaxPayer.runtimeconfig.json
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\bin\Debug\net5.0\TaxPayer.runtimeconfig.dev.json
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\bin\Debug\net5.0\TaxPayer.dll
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\bin\Debug\net5.0\ref\TaxPayer.dll
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\bin\Debug\net5.0\TaxPayer.pdb
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\obj\Debug\net5.0\TaxPayer.csproj.AssemblyReference.cache
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\obj\Debug\net5.0\TaxPayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\obj\Debug\net5.0\TaxPayer.AssemblyInfoInputs.cache
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\obj\Debug\net5.0\TaxPayer.AssemblyInfo.cs
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\obj\Debug\net5.0\TaxPayer.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\obj\Debug\net5.0\TaxPayer.dll
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\obj\Debug\net5.0\ref\TaxPayer.dll
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\obj\Debug\net5.0\TaxPayer.pdb
+C:\Users\Carlos Oliveira\source\repos\TaxPayer\TaxPayer\obj\Debug\net5.0\TaxPayer.genruntimeconfig.cache
