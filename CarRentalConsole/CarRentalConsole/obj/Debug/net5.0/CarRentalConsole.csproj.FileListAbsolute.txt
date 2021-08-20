@@ -1,0 +1,16 @@
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\bin\Debug\net5.0\CarRentalConsole.exe
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\bin\Debug\net5.0\CarRentalConsole.deps.json
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\bin\Debug\net5.0\CarRentalConsole.runtimeconfig.json
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\bin\Debug\net5.0\CarRentalConsole.runtimeconfig.dev.json
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\bin\Debug\net5.0\CarRentalConsole.dll
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\bin\Debug\net5.0\ref\CarRentalConsole.dll
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\bin\Debug\net5.0\CarRentalConsole.pdb
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\obj\Debug\net5.0\CarRentalConsole.csproj.AssemblyReference.cache
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\obj\Debug\net5.0\CarRentalConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\obj\Debug\net5.0\CarRentalConsole.AssemblyInfoInputs.cache
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\obj\Debug\net5.0\CarRentalConsole.AssemblyInfo.cs
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\obj\Debug\net5.0\CarRentalConsole.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\obj\Debug\net5.0\CarRentalConsole.dll
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\obj\Debug\net5.0\ref\CarRentalConsole.dll
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\obj\Debug\net5.0\CarRentalConsole.pdb
+C:\Users\Carlos Oliveira\Desktop\Github\Projetos\CarRentalConsole\CarRentalConsole\obj\Debug\net5.0\CarRentalConsole.genruntimeconfig.cache
