@@ -1,0 +1,14 @@
+C:\Users\Carlos Oliveira\source\repos\HowManyStudents\HowManyStudents\bin\Debug\netcoreapp3.1\HowManyStudents.exe
+C:\Users\Carlos Oliveira\source\repos\HowManyStudents\HowManyStudents\bin\Debug\netcoreapp3.1\HowManyStudents.deps.json
+C:\Users\Carlos Oliveira\source\repos\HowManyStudents\HowManyStudents\bin\Debug\netcoreapp3.1\HowManyStudents.runtimeconfig.json
+C:\Users\Carlos Oliveira\source\repos\HowManyStudents\HowManyStudents\bin\Debug\netcoreapp3.1\HowManyStudents.runtimeconfig.dev.json
+C:\Users\Carlos Oliveira\source\repos\HowManyStudents\HowManyStudents\bin\Debug\netcoreapp3.1\HowManyStudents.dll
+C:\Users\Carlos Oliveira\source\repos\HowManyStudents\HowManyStudents\bin\Debug\netcoreapp3.1\HowManyStudents.pdb
+C:\Users\Carlos Oliveira\source\repos\HowManyStudents\HowManyStudents\obj\Debug\netcoreapp3.1\HowManyStudents.csproj.AssemblyReference.cache
+C:\Users\Carlos Oliveira\source\repos\HowManyStudents\HowManyStudents\obj\Debug\netcoreapp3.1\HowManyStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Oliveira\source\repos\HowManyStudents\HowManyStudents\obj\Debug\netcoreapp3.1\HowManyStudents.AssemblyInfoInputs.cache
+C:\Users\Carlos Oliveira\source\repos\HowManyStudents\HowManyStudents\obj\Debug\netcoreapp3.1\HowManyStudents.AssemblyInfo.cs
+C:\Users\Carlos Oliveira\source\repos\HowManyStudents\HowManyStudents\obj\Debug\netcoreapp3.1\HowManyStudents.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Oliveira\source\repos\HowManyStudents\HowManyStudents\obj\Debug\netcoreapp3.1\HowManyStudents.dll
+C:\Users\Carlos Oliveira\source\repos\HowManyStudents\HowManyStudents\obj\Debug\netcoreapp3.1\HowManyStudents.pdb
+C:\Users\Carlos Oliveira\source\repos\HowManyStudents\HowManyStudents\obj\Debug\netcoreapp3.1\HowManyStudents.genruntimeconfig.cache
